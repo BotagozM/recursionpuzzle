@@ -3,7 +3,7 @@ package recursionPuzzles;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class RecursionPuzzle3 {
+public class RecursionPuzzle {
 	
 	private static ArrayList<Integer> v = new ArrayList<Integer>();
 	
